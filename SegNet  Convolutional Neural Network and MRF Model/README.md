@@ -1,4 +1,4 @@
-# Marine-Aquaculture
+# Information Extraction of Marine Floating Raft Agriculture Based on SegNet Convolutional Neural Network and MRF Model
 
 'Sample' includes the images corresponding to 'SegNet', 'Unet', and 'SegNet+MRF'.
 
