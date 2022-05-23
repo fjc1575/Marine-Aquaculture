@@ -45,5 +45,5 @@ The demo images in **'./IDUDL/data/demo'**.
 The weight file in **'./IDUDL/pth'**.
 
 
-
-IDUDL.pth is uploaded to Link: https://pan.baidu.com/s/1JvtBkzEb3OexiZjynmaJNQ  code: q5k3 
+# Pre-trained models
+They are available at https://pan.baidu.com/s/1JvtBkzEb3OexiZjynmaJNQ  code: q5k3 
