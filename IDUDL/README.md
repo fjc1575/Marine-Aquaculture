@@ -43,3 +43,7 @@ We provide a training convergence result. You can run demo.py
 The demo images in **'./IDUDL/data/demo'**.
 
 The weight file in **'./IDUDL/pth'**.
+
+
+
+IDUDL.pth is uploaded to Link: https://pan.baidu.com/s/1JvtBkzEb3OexiZjynmaJNQ  code: q5k3 
