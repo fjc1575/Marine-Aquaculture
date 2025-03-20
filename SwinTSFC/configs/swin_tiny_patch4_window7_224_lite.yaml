@@ -1,0 +1,15 @@
+MODEL:
+  TYPE: swin
+  NAME: swin_tiny_patch4_window7_224
+  DROP_PATH_RATE: 0.2
+#   PRETRAIN_CKPT: "./pretrained_ckpt/swin_tiny_patch4_window7_224.pth"
+#   PRETRAIN_CKPT: "./pretrained_ckpt/moby_upernet_swin_tiny_patch4_window7_512x512.pth"
+  PRETRAIN_CKPT: "./output/epoch_149.pth"
+#   PRETRAIN_CKPT: "./output/high/epoch_148.pth"
+  SWIN:
+    FINAL_UPSAMPLE: "expand_first"
+    EMBED_DIM: 96
+    DEPTHS: [ 2, 2, 2, 2 ]
+    DECODER_DEPTHS: [ 2, 2, 2, 1]
+    NUM_HEADS: [ 3, 6, 12, 24 ]
+    WINDOW_SIZE: 4
